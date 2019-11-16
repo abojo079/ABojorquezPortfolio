@@ -1,5 +1,32 @@
-body{
-background-color: brown;
+#about{
+padding: 200px;
 
 
 }
+
+.self{
+position: relative;
+width: 200px;
+height:250px;
+border-radius: 8px;
+top: -175px;
+}
+
+.bio{
+
+position: relative;
+height: 10px;
+top: -200px;
+padding: 50px;
+}
+
+#bottom{
+background-color: rgb(100, 118, 138);
+border-top: lightslategray;
+border-top-width: thick;
+padding: 8px;
+font-size: 10px;
+font-weight: bold;
+color: white;
+}
+

@@ -18,7 +18,7 @@ box-shadow: 10px 10px 5px grey;
 
 position: relative;
 height: 10px;
-top: -200px;
+top: -180px;
 padding: 50px;
 }
 
@@ -43,14 +43,42 @@ color: white;
 .indxHead{
 margin-top: -12px;
 padding-top: 22px;
-
+text-shadow: 1px 1px 2px grey;
 
 }
 
 #title{
 margin-top: 100px;
 padding: 15px;
+vertical-align: middle;
 
 
 }
 
+.submit{
+margin-bottom: 70px;
+
+
+
+}
+
+.press{
+
+margin-bottom: 100px;
+
+
+}
+.bioHead{
+text-shadow: 1px 1px 2px grey;
+text-align: center;
+
+
+}
+
+
+.contact{
+
+    text-shadow: 1px 1px 2px grey;
+    padding-bottom: 22px;
+
+}

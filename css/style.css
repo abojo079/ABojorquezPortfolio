@@ -6,10 +6,12 @@ padding: 200px;
 
 .self{
 position: relative;
-width: 200px;
+width: 220px;
 height:250px;
 border-radius: 8px;
 top: -175px;
+box-shadow: 10px 10px 5px grey;
+
 }
 
 .bio{
@@ -28,5 +30,27 @@ padding: 8px;
 font-size: 10px;
 font-weight: bold;
 color: white;
+}
+#mainPhotos{
+    display: block;
+    margin-right: auto;
+    margin-left: 70px;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 8px;
+    margin-top: 22px;
+}
+
+.indxHead{
+margin-top: -12px;
+padding-top: 22px;
+
+
+}
+
+#title{
+margin-top: 100px;
+padding: 15px;
+
+
 }
 
